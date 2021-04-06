@@ -6,11 +6,13 @@ MY PLANNING :
 - Learning Web Development
   - HTML & CSS
   - JavaScript
-  - Python
+  - PHP
 - Learning Web Design
   - Adobe XD
   - Scratch
 - Framework
  - Bootstrap
- - React JS
  - NodeJS
+- Learning Web Design
+  - Figma
+  - Adobe XD
