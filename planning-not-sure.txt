@@ -4,5 +4,8 @@ MY PLANNING :
   - Adobe Photoshop
   - Adobe Illustrator
 - Learning Web Development
+  - HTML & CSS
+  - JavaScript
 - Learning Web Design
   - Figma
+  - Adobe XD
