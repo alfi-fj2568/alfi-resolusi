@@ -2,7 +2,14 @@ MY PLANNING :
 
 - Learning Graphic Design
   - Adobe Photoshop
-  - Adobe Illustrator
+  - CorelDRAW
 - Learning Web Development
+  - HTML & CSS
+  - JavaScript
+  - Python
 - Learning Web Design
-  - Figma
+  - Adobe XD
+  - Scratch
+- Framework
+ - Bootstrap
+ - React JS
