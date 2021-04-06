@@ -6,6 +6,7 @@ MY PLANNING :
 - Learning Web Development
   - HTML & CSS
   - JavaScript
+  - PHP
 - Learning Web Design
   - Figma
   - Adobe XD
